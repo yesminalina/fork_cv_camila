@@ -1,0 +1,9 @@
+.footer {
+    text-align: center;
+    background-color: snow;
+    padding: 1%;
+    position: absolute;
+    bottom: 0%;
+    width: 100%;
+    margin-top: auto;
+  }
